@@ -1,5 +1,3 @@
 # mymy
 
-test
-
-test
+- 나 다시 작성했어!
